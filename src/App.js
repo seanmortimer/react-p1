@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import MyComp from './MyComponent'
 
 let index = 20;  // This is state. When hands are off keyboard, app remembers index
                  // index is regular JS state, count is React state
@@ -22,11 +23,12 @@ function App() {
     <div className="App">
 
       <header className="App-header">
-        <div >
+        <div style={{border: "solid red", padding: "20px"}}>
           <h1>Hello World!</h1>
           <p onClick={myOnClickCount}>The magical counter is at {count}</p>
           <p onClick={myOnClickIndex}>The mysterious index is at {index}</p>
         </div>
+        <MyComp />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
