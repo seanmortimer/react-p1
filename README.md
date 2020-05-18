@@ -1,3 +1,10 @@
+#Learning React with TDD
+
+This is a play repository for learning to develop React apps using test driven devolopment.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
