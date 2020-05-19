@@ -14,8 +14,6 @@ function click(txt) {
   fireEvent.click(screen.getByText(regTxt));
 }
 
-// const testCounterFn = jest.fn();
-
 
 test('test my clicking the counters', () => {
   // console.log('Hey we\'re testing')
