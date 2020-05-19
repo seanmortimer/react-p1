@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 function MyComponent(props) {
     const [count, setCount] = useState(100);
 
-    // console.log("Hey! We're in the component");pp
+    // console.log("Hey! We're in the component");
 
     function myOnClickCount(e) {
         setCount(count + 1);
