@@ -1,0 +1,35 @@
+[33mcommit 4f193b75ac4f145df4d9e60ab639ebcbb9df117b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Sean Mortimer <sean.mortimer@gmail.com>
+Date:   Mon May 18 14:11:09 2020 -0600
+
+    Fix readme formatting
+
+[33mcommit 8b90a2109de686167cea476701356bb430591185[m
+Author: Sean Mortimer <sean.mortimer@gmail.com>
+Date:   Mon May 18 14:05:12 2020 -0600
+
+    Start testing components
+
+[33mcommit dc145ac77d16a3c1b858843ed7656d2affd82b7c[m
+Author: Sean Mortimer <sean.mortimer@gmail.com>
+Date:   Mon May 18 12:22:25 2020 -0600
+
+    Manipulate state through another component
+
+[33mcommit 7e2c7bc37466ff6e0f544bc4bc7dd30fbb517092[m
+Author: Sean Mortimer <sean.mortimer@gmail.com>
+Date:   Mon May 18 12:03:09 2020 -0600
+
+    Create a new component
+
+[33mcommit c6f29a9ab4ae2ca5dd7035841bfa99779c6f3db6[m
+Author: Sean Mortimer <sean.mortimer@gmail.com>
+Date:   Mon May 18 00:09:01 2020 -0600
+
+    Play with state and state changes
+
+[33mcommit daefa90c699d82bf9bee96577e0ef73c30fc9b43[m
+Author: Sean Mortimer <sean.mortimer@gmail.com>
+Date:   Sun May 17 23:09:43 2020 -0600
+
+    Initialize project using Create React App
