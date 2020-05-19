@@ -16,7 +16,7 @@ function App() {
 
   function myOnClickIndex(e) {
     index++;
-    console.log('Index was clicked', index)
+    // console.log('Index was clicked', index)
   }
 
   return (

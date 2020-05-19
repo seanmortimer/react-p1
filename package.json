@@ -1,4 +1,4 @@
- {
+{
   "name": "react-p1",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "cov": "react-scripts test -- --coverage --watchAll=false",
+    "testr": "react-scripts test --runInBand",
+    "cov": "react-scripts test --coverage --watchAll",
+    "showcov": "start ./coverage/lcov-report/index.html",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
